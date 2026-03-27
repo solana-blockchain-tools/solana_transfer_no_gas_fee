@@ -1,14 +1,14 @@
-A gas-free bulk transfer tool for Solana
-# 1. Parameter description
+# A gas-free bulk transfer tool for Solana
+## 1. Parameter description
 ```
 private_key_wif -> sender private key
 recipients -> recipient address and receive lamport
 ```
-# 2. Usage
+## 2. Usage
 ```
 After configuring the config file, click the exe file.
 ```
-# 3. History Transaction
+## 3. History Transaction
 ```
 
 example 1:
